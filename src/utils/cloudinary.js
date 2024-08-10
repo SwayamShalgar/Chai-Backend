@@ -22,4 +22,4 @@ const uploadResult = async (localFilePath) => {
     }
 }
     
-    console.log(uploadResult)
+export {uploadResult};
